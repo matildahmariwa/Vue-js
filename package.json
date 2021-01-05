@@ -10,7 +10,7 @@
     "watch": "webpack -w -d"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "jsonwebtoken": "^8.5.1",
     "uuid": "^3.3.3",
